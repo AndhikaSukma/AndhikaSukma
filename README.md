@@ -12,7 +12,7 @@
 
 ---
 
-## 💻 Languages
+##  Languages
 
 <p align="center">
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠 Tools
+##  Tools
 
 <p align="center">
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=AndhikaSukma&theme=tokyonight" width="450"/>
@@ -58,12 +58,10 @@
 </a>
 </p>
 
-
 ---
 
-## 🐍 Contribution Snake
+![Snake animation](https://github.com/AndhikaSukma/AndhikaSukma/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Snake animation](https://github.com/AndhikaSukma/AndhikaSukma/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
