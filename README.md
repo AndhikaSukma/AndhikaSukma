@@ -53,6 +53,16 @@
 
 ---
 
+<p align="left">
+<a href="https://github.com/AndikaSukma">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndikaSukma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndikaSukma&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+---
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/AndhikaSukma/AndhikaSukma/blob/output/github-contribution-grid-snake.svg)
@@ -67,3 +77,6 @@
 ---
 
 ⭐ From [AndhikaSukma](https://github.com/AndhikaSukma)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndikaSukma&label=Profile%20views&color=0e75b6&style=flat" alt="AndikaSukma" /> </p>
+
+
