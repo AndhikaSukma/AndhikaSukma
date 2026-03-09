@@ -12,25 +12,43 @@
 
 ---
 
-## 🚀 Skills
+## 💻 Languages
 
 <p align="center">
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 Tools
 
-<p align="left">
-<a href="https://github.com/hollymolly2708">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hollymolly2708&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hollymolly2708&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="50"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="50"/>
+
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AndhikaSukma&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
