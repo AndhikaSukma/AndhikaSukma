@@ -40,6 +40,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/AndhikaSukma/AndhikaSukma/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌐 Connect With Me
 
 - Instagram : https://instagram.com/annn.dika  
