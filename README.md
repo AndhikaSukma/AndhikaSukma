@@ -46,17 +46,15 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AndhikaSukma&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=AndhikaSukma&theme=tokyonight" width="450"/>
 </p>
 
 ---
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/AndikaSukma">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndikaSukma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndikaSukma&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndikaSukma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="300px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndikaSukma&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
