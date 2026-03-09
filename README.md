@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Andhika+Sukma;Informatics+Student;Learning+Android+Development;Future+Mobile+Developer&center=true&width=500&height=50">
-</p>
-
-<p align="center">
-Interested in Mobile Apps, Programming, and Technology
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Andhika+Sukma;Informatics+Student;Learning+Android+Development=true&width=500&height=50">
 </p>
 
 ---
