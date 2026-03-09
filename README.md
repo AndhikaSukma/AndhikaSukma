@@ -53,8 +53,8 @@
 
 <p align="center">
 <a href="https://github.com/AndikaSukma">
-  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndikaSukma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="300px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndikaSukma&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndhikaSukma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="300px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndhikaSukma&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -72,6 +72,6 @@
 ---
 
 ⭐ From [AndhikaSukma](https://github.com/AndhikaSukma)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndikaSukma&label=Profile%20views&color=0e75b6&style=flat" alt="AndikaSukma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndhikaSukma&label=Profile%20views&color=0e75b6&style=flat" alt="AndikaSukma" /> </p>
 
 
