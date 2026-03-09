@@ -60,8 +60,7 @@
 
 ---
 
-![Snake animation](https://github.com/AndhikaSukma/AndhikaSukma/blob/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/AndhikaSukma/AndhikaSukma/output/github-contribution-grid-snake.svg)
 
 ---
 
