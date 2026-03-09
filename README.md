@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Andhika Sukma Jiwatama</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Andhika+Sukma;Informatics+Student;Learning+Android+Development;Future+Mobile+Developer&center=true&width=500&height=50">
+</p>
+
+<h2 align="center">Hi 👋, I'm Andhika Sukma Jiwatama</h2>
 <h3 align="center">Informatics Student | Learning Android Development</h3>
 
 <p align="center">
@@ -29,7 +33,7 @@ Interested in Mobile Apps, Programming, and Technology
 
 ## 📊 GitHub Stats
 
-![Andhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndhikaSukma&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndhikaSukma&show_icons=true&theme=tokyonight)
 
 ---
 
