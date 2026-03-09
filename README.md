@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Andhika+Sukma;Informatics+Student;Learning+Android+Development;true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Andhika+Sukma;Informatics+Student;Learning+Android+Development;Future+Mobile+Developer&center=true&width=500&height=50">
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 ## 🚀 Skills
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
@@ -26,20 +26,24 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndhikaSukma&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AndhikaSukma&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndhikaSukma&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndhikaSukma&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- Instagram : https://instagram.com/annn.dika
-- Email : Andhikasukma069@gmail.com
+- Instagram : https://instagram.com/annn.dika  
+- Email : Andhikasukma069@gmail.com  
 
 ---
 
