@@ -2,7 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+Andhika+Sukma;Informatics+Student;Learning+Android+Development;Future+Mobile+Developer&center=true&width=500&height=50">
 </p>
 
-<h2 align="center">Hi 👋, I'm Andhika Sukma Jiwatama</h2>
 <h3 align="center">Informatics Student | Learning Android Development</h3>
 
 <p align="center">
