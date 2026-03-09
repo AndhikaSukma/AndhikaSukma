@@ -37,6 +37,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="50"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="50"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="50"/>
 
 </p>
@@ -73,5 +77,4 @@
 
 ⭐ From [AndhikaSukma](https://github.com/AndhikaSukma)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndhikaSukma&label=Profile%20views&color=0e75b6&style=flat" alt="AndikaSukma" /> </p>
-
 
